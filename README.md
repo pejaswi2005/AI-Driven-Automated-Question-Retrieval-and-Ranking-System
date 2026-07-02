@@ -1,0 +1,2 @@
+# AI-Driven-Automated-Question-Retrieval-and-Ranking-System
+Developed an AI-driven system to automatically retrieve, rank,  recommend relevant questions based on Frequently Asked Questions (FAQs) and Course Outcomes (COs).Implemented OCR, Natural Language Processing (NLP), semantic search, and relevance-based ranking algorithms to improve question retrieval accuracy and reduce manual effort for students .
